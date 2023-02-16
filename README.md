@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://github.dev/Mrunmayee1/Mrunmayee1/blob/main/43D3157A-BB2B-4BAB-AF64-29BB12CD6727.png
 I am Mrunmayee. I have recently completed my Masters in AI and now looking for opportunities to learn and grow. I always had passion for finding meannings from experiences. Human psychology has always intrigued me. Here to explore new projects to make my contribution in the field of Data Science. 
 
 <!--
