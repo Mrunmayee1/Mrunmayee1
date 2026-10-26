@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mrunmayee 👋
+**Creative Technologist | AI Workflow & Automation Engineer**
 
-<!--
-**Mrunmayee1/Mrunmayee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use code and AI to make production workflows faster, clearer and less error-prone,
+and I turn ideas into working prototypes in days.
 
-Here are some ideas to get you started:
+## What I build
+- 📈 **Message Trend Anomaly Detector**: flags flatlines, spikes and drops with low false positives *(repo coming soon)*
+- 🤖 **QA Support Agent**: explains test failures from logs in plain language *(coming soon)*
+- 🧰 **Claude Skills Toolkit**: reusable skills for bug creation and test-case review *(coming soon)*
+- 🔎 **Medical Info RAG Search**: company hackathon winner, 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+Python · Claude · Playwright · Pytest · Selenium · Pandas · SQL · Jenkins · Git
+
+## Find me
+mrunmayeekadam28@gmail.com · LinkedIn *(https://www.linkedin.com/in/mrunmayee-kadam/)*
